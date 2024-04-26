@@ -44,6 +44,7 @@ dependencies {
 
     //Applovin mediation
     implementation 'com.applovin.mediation:facebook-adapter:6.16.0.2'
+    implementation 'com.applovin.mediation:unityads-adapter:4.9.2.1'
 
     //GDPR
     implementation 'com.google.android.ump:user-messaging-platform:2.2.0'
